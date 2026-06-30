@@ -364,7 +364,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-⚠️ **IMPORTANT:** This project is for **educational and research purposes only**. 
+ **IMPORTANT:** This project is for **educational and research purposes only**. 
 
 The analysis, insights, and forecasts provided in this repository should **NOT** be considered as financial advice or investment recommendations. Stock market investments carry inherent risks, and past performance does not guarantee future results. 
 
@@ -375,9 +375,9 @@ Always conduct your own research and consult with a qualified financial advisor 
 ## Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@mohansaipandeti](https://github.com/mohansaipandeti)
+- LinkedIn: [Mohan Sai Pandeti](https://linkedin.com/in/mohansaipandeti)
+- Email: pandetimohansai@gmail.com
 
 ## Acknowledgments
 
@@ -395,4 +395,4 @@ Always conduct your own research and consult with a qualified financial advisor 
 
 ---
 
-**Made with ❤️ and R** | ⭐ Star this repo if you found it helpful!
+**Made with R** |  Star this repo if you found it helpful!
